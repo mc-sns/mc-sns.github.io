@@ -1,0 +1,114 @@
+@import url(/css/fonts/Minecraft/MinecraftSeven.css);
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  color: #fff;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color-scheme: dark;
+  font-family: "MinecraftSeven";
+  font-size: 1.2em;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+  overflow-x: hidden;
+}
+
+@media (max-width: 800px) {
+  div#main > div {
+    padding-bottom: 64px;
+  }
+}
+div#main {
+  width: 80%;
+  height: 80%;
+  padding: 5px;
+}
+a[href] {
+  text-decoration: none;
+  color: #fff;
+  fill: currentColor;
+}
+a[href]:hover {
+  color: #ff0;
+}
+
+div#footer {
+  position: fixed;
+  text-align: center;
+  line-height: 3px;
+  color: #ff0;
+  font-size: 12px;
+  width: 100vw;
+  margin: 0;
+  padding: 2px;
+  right: 0;
+  bottom: 0;
+  display: block;
+  background: rgba(56, 2, 93, 0.2509803922);
+  overflow: hidden;
+}
+
+div#bottomSpacer {
+  padding: 32px;
+}
+
+img[pixelated=true] {
+  image-rendering: pixelated;
+}
+
+div#index {
+  width: 100%;
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+div#index div#mpDesc {
+  padding: 0;
+  margin: 0;
+  display: inline-block;
+  text-align: center;
+  width: 80%;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  display: inline-block;
+}
+div#index div#mpDivider {
+  padding: 0;
+  margin-top: 8px;
+  text-align: center;
+  width: 80%;
+  height: 0.5px;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  display: inline-block;
+  border-top: #fff 1px;
+  z-index: 20;
+}
+div#index img#mpImg {
+  display: block;
+  margin: 0;
+  position: relative;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  width: 64%;
+  z-index: 20;
+}
+div#index p#mpOps {
+  text-align: center;
+  display: block;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+}
+div#index p#mpOps a {
+  margin-left: 16px;
+  margin-right: 16px;
+}/*# sourceMappingURL=style.css.map */

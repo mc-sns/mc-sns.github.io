@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "0.0.0",
+      "mpfile": "https://kckarnige.github.io/mc-sns/versions/0.0.0/sticks_n_stones_0.0.0.mrpack",
+      "releasedAt": 0,
+      "updateType": "major",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/mc-sns/version/1.0.0",
+          "generic": "https://kckarnige.github.io/mc-sns/changelog"
+        }
+      }
+    }
+  ]
+}
