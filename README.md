@@ -1,4 +1,4 @@
-[![Minecraft: Sticks n' Stones (Modpack title)](https://kckarnige.github.io/mc-sns/res/modpack_title_4k.png)](https://kckarnige.github.io/mc-sns/)
+[![Minecraft: Sticks n' Stones (Modpack title)](https://mc-sns.github.io/res/modpack_title_4k.png)](https://mc-sns.github.io/)
 
 #
 
@@ -13,10 +13,10 @@ From Eyes of Ender being late game, to tool progression reworks, with some class
 > [!NOTE]
 > You can get the any version of the pack by visiting a link like so:
 > 
-> [`https://kckarnige.github.io/mc-sns/dl/1.0.0`](https://kckarnige.github.io/mc-sns/dl/1.0.0)
+> [`https://mc-sns.github.io/dl/1.0.0`](https://mc-sns.github.io/dl/1.0.0)
 > 
 > You can get the latest version by visting this link:
 > 
-> [`https://kckarnige.github.io/mc-sns/dl/latest`](https://kckarnige.github.io/mc-sns/dl/latest)
+> [`https://mc-sns.github.io/dl/latest`](https://mc-sns.github.io/dl/latest)
 > 
 > You will need a launcher like the Modrinth app or ATLauncher that supports this file type

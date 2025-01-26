@@ -1,7 +1,7 @@
 const path = require('path');
 const fs = require('fs');
 
-fetch("https://raw.githubusercontent.com/kckarnige/mc-sns/main/meta.json", {
+fetch("https://raw.githubusercontent.com/mc-sns/mc-sns.github.io/main/meta.json", {
   method: "GET",
   headers: {
       Accept: "application/json",

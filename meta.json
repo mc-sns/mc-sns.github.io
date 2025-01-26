@@ -4,13 +4,13 @@
   "versions": [
     {
       "id": "0.0.1",
-      "mpfile": "https://kckarnige.github.io/mc-sns/versions/0.0.1/sticks_n_stones_0.0.1.mrpack",
+      "mpfile": "https://mc-sns.github.io/versions/0.0.1/sticks_n_stones_0.0.1.mrpack",
       "releasedAt": 0,
       "updateType": "major",
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/mc-sns/version/0.0.1",
-          "generic": "https://kckarnige.github.io/mc-sns/changelog"
+          "generic": "https://mc-sns.github.io/changelog"
         }
       }
     }
