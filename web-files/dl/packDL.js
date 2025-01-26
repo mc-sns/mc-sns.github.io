@@ -4,9 +4,9 @@ let dlPage;
 function setForDL () {
     dlPage = true;
     document.title = "Getting download..";
-    document.getElementById("pageIco").setAttribute("href", "https://iatj-modpack.github.io/dlicon.ico");
+    document.getElementById("pageIco").setAttribute("href", "https://kckarnige.github.io/mc-sns/dlicon.ico");
 }
-fetch("https://iatj-modpack.github.io/meta.json", {
+fetch("https://kckarnige.github.io/mc-sns/meta.json", {
     method: "GET",
     headers: {
         Accept: "application/json",
@@ -25,11 +25,11 @@ fetch("https://iatj-modpack.github.io/meta.json", {
         }
         if (document.location.pathname == "/dl/0.0.0") {
             setForDL();
-            document.location = "https://iatj-modpack.github.io/versions/0.0.0/iatj_modpack_file_0.0.0.mrpack"
+            document.location = "https://kckarnige.github.io/mc-sns/versions/0.0.0/iatj_modpack_file_0.0.0.mrpack"
         }
         if (document.location.pathname == "/dl/latest") {
             setForDL();
-            fetch("https://iatj-modpack.github.io/versions/latest/vnum.txt", {
+            fetch("https://kckarnige.github.io/mc-sns/versions/latest/vnum.txt", {
                 method: "GET",
                 headers: {
                     Accept: "application/json",
@@ -37,15 +37,15 @@ fetch("https://iatj-modpack.github.io/meta.json", {
             })
                 .then((response) => response.text())
                 .then((response) => {
-                    document.location = "https://iatj-modpack.github.io/versions/" + response + "/iatj_modpack_file_" + response + ".mrpack"
+                    document.location = "https://kckarnige.github.io/mc-sns/versions/" + response + "/iatj_modpack_file_" + response + ".mrpack"
                 })
         }
     })
 
     if (dlPage) {
-        document.getElementById("pageIco").setAttribute("href", "https://iatj-modpack.github.io/dlicon.ico");
+        document.getElementById("pageIco").setAttribute("href", "https://kckarnige.github.io/mc-sns/dlicon.ico");
     } else {
-        document.getElementById("pageIco").setAttribute("href", "https://iatj-modpack.github.io/favicon.ico");
+        document.getElementById("pageIco").setAttribute("href", "https://kckarnige.github.io/mc-sns/favicon.ico");
     }
 window.onload = () => {
     setTimeout(() => {
@@ -56,7 +56,7 @@ window.onload = () => {
                 window.close()
             }
         } else {
-            document.location = "https://iatj-modpack.github.io"
+            document.location = "https://kckarnige.github.io/mc-sns"
         }
     }, 1000)
 }

@@ -3,13 +3,13 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "0.0.0",
-      "mpfile": "https://kckarnige.github.io/mc-sns/versions/0.0.0/sticks_n_stones_0.0.0.mrpack",
+      "id": "0.0.1",
+      "mpfile": "https://kckarnige.github.io/mc-sns/versions/0.0.1/sticks_n_stones_0.0.1.mrpack",
       "releasedAt": 0,
       "updateType": "major",
       "promotions": {
         "downloads": {
-          "modrinth": "https://modrinth.com/modpack/mc-sns/version/1.0.0",
+          "modrinth": "https://modrinth.com/modpack/mc-sns/version/0.0.1",
           "generic": "https://kckarnige.github.io/mc-sns/changelog"
         }
       }
