@@ -4,9 +4,9 @@ let dlPage;
 function setForDL () {
     dlPage = true;
     document.title = "Getting download..";
-    document.getElementById("pageIco").setAttribute("href", "https://kckarnige.github.io/mc-sns/dlicon.ico");
+    document.getElementById("pageIco").setAttribute("href", "https://mc-sns.github.io/dlicon.ico");
 }
-fetch("https://kckarnige.github.io/mc-sns/meta.json", {
+fetch("https://mc-sns.github.io/meta.json", {
     method: "GET",
     headers: {
         Accept: "application/json",
@@ -25,11 +25,11 @@ fetch("https://kckarnige.github.io/mc-sns/meta.json", {
         }
         if (document.location.pathname == "/dl/0.0.0") {
             setForDL();
-            document.location = "https://kckarnige.github.io/mc-sns/versions/0.0.0/iatj_modpack_file_0.0.0.mrpack"
+            document.location = "https://mc-sns.github.io/versions/0.0.0/sticks_n_stones_0.0.0.mrpack"
         }
         if (document.location.pathname == "/dl/latest") {
             setForDL();
-            fetch("https://kckarnige.github.io/mc-sns/versions/latest/vnum.txt", {
+            fetch("https://mc-sns.github.io/versions/latest/vnum.txt", {
                 method: "GET",
                 headers: {
                     Accept: "application/json",
@@ -37,15 +37,15 @@ fetch("https://kckarnige.github.io/mc-sns/meta.json", {
             })
                 .then((response) => response.text())
                 .then((response) => {
-                    document.location = "https://kckarnige.github.io/mc-sns/versions/" + response + "/iatj_modpack_file_" + response + ".mrpack"
+                    document.location = "https://mc-sns.github.io/versions/" + response + "/sticks_n_stones_" + response + ".mrpack"
                 })
         }
     })
 
     if (dlPage) {
-        document.getElementById("pageIco").setAttribute("href", "https://kckarnige.github.io/mc-sns/dlicon.ico");
+        document.getElementById("pageIco").setAttribute("href", "https://mc-sns.github.io/dlicon.ico");
     } else {
-        document.getElementById("pageIco").setAttribute("href", "https://kckarnige.github.io/mc-sns/favicon.ico");
+        document.getElementById("pageIco").setAttribute("href", "https://mc-sns.github.io/favicon.ico");
     }
 window.onload = () => {
     setTimeout(() => {
@@ -56,7 +56,7 @@ window.onload = () => {
                 window.close()
             }
         } else {
-            document.location = "https://kckarnige.github.io/mc-sns"
+            document.location = "https://mc-sns.github.io"
         }
     }, 1000)
 }
