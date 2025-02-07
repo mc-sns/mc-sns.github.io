@@ -28,12 +28,24 @@
     },
     {
       "id": "1.1.0",
-      "mpfile": "https://mc-sns.github.io/versions/1.0.0/sticks_n_stones_1.1.0.mrpack",
+      "mpfile": "https://mc-sns.github.io/versions/1.1.0/sticks_n_stones_1.1.0.mrpack",
       "releasedAt": 1738898178461,
       "updateType": "major",
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/mc-sns/version/1.1.0",
+          "generic": "https://mc-sns.github.io/changelog"
+        }
+      }
+    },
+    {
+      "id": "1.1.1",
+      "mpfile": "https://mc-sns.github.io/versions/1.1.1/sticks_n_stones_1.1.1.mrpack",
+      "releasedAt": 1738955905481,
+      "updateType": "major",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/mc-sns/version/1.1.1",
           "generic": "https://mc-sns.github.io/changelog"
         }
       }

@@ -1,0 +1,23 @@
+### Adjustments and Additions
+
+- Adjusted [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) config
+
+- Added [Better Climbing](https://modrinth.com/mod/better-climbing)
+
+### Updates
+
+- Updated [Tools of Steel](https://modrinth.com/mod/tools-of-steel)
+
+- Updated [Sounds](https://modrinth.com/mod/sound)
+
+- Updated [Panda's Falling Trees](https://modrinth.com/mod/pandas-falling-trees)
+
+- Updated [Ears](https://modrinth.com/mod/ears)
+
+- Updated [Consistent Netherite](https://modrinth.com/resourcepack/consistent-netherite)
+
+- Updated [Better Enchanting](https://modrinth.com/mod/better-enchanting)
+
+### Removals
+
+- Removed [Server Snapshot Performance Backports](https://modrinth.com/mod/server-snapshot-performance-backports)
