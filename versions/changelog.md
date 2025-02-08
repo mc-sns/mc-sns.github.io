@@ -1,5 +1,11 @@
 *\* Update notes do not include libraries*
 
+## 1.1.2 - Daily Special
+
+### Adjustments and Additions
+
+- Adjusted main menu
+
 ## 1.1.1 - Shmoovin and Groovin
 
 ### Adjustments and Additions
