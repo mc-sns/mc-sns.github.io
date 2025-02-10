@@ -1,5 +1,35 @@
 *\* Update notes do not include libraries*
 
+## 1.1.3 - The End Update at Home
+
+### Adjustments and Additions
+
+- Added [True Ending: Ender Dragon Overhaul](https://modrinth.com/mod/true-ending)
+
+- Added [Better End Cities Vanilla](https://modrinth.com/mod/better-end-cities-base)
+
+- Added [qrafty's End Villages](https://modrinth.com/datapack/qraftys-end-villages)
+
+- Added [Forgiving Void](https://modrinth.com/mod/forgiving-void)
+
+- Added [Caffeinated](https://modrinth.com/mod/caffeinated)
+
+- Steel and diamond tools are now crafted the conventional way
+
+- Some configs are now overwritten when updating
+
+### Updates
+
+- Updated [Tools of Steel](https://modrinth.com/mod/tools-of-steel)
+
+### Removals
+
+- Removed [Dragonkind Evolved](https://modrinth.com/datapack/dragonkind-evolved)
+
+- Removed [Stellarity](https://modrinth.com/mod/stellarity)
+
+- Removed Drodi's [Villagers](https://modrinth.com/resourcepack/drodis-villagers), [Illagers](https://modrinth.com/resourcepack/drodis-illagers), and [Blazes](https://modrinth.com/resourcepack/drodis-blazes)
+
 ## 1.1.2 - Daily Special
 
 ### Adjustments and Additions
