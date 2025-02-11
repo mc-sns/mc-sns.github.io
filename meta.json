@@ -73,6 +73,18 @@
           "generic": "https://mc-sns.github.io/changelog"
         }
       }
+    },
+    {
+      "id": "1.1.4",
+      "mpfile": "https://mc-sns.github.io/versions/1.1.4/sticks_n_stones_1.1.4.mrpack",
+      "releasedAt": 1739251964511,
+      "updateType": "major",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/mc-sns/version/1.1.4",
+          "generic": "https://mc-sns.github.io/changelog"
+        }
+      }
     }
   ]
 }

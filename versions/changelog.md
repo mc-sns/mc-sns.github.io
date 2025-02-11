@@ -1,5 +1,36 @@
 *\* Update notes do not include libraries*
 
+## 1.1.4 - A Touch of Vanilla
+
+### Removals
+
+- Removed [Sodium Core Shader Support](https://modrinth.com/mod/sodium-core-shader-support)
+
+### Updates*
+
+- Updated [AdventureZ](https://modrinth.com/mod/adventurez)
+
+- Updated [Bad Wither No Cookie](https://modrinth.com/mod/bad-wither-no-cookie)
+
+- Updated [Dynamic Crosshair Compat](https://modrinth.com/mod/dynamiccrosshaircompat)
+
+- Updated [FancyMenu](https://modrinth.com/mod/fancymenu)
+
+- Updated [Ksyxis](https://modrinth.com/mod/ksyxis)
+
+- Updated [More Culling](https://modrinth.com/mod/moreculling)
+
+- Updated [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
+
+- Updated [Sodium](https://modrinth.com/mod/sodium)
+
+- Updated [Sounds](https://modrinth.com/mod/sound)
+
+- Updated [Stylish Effects](https://modrinth.com/mod/stylish-effects)
+
+- Updated [Tools of Steel](https://modrinth.com/mod/tools-of-steel)
+
+
 ## 1.1.3 - The End Update at Home
 
 ### Adjustments and Additions
@@ -30,11 +61,13 @@
 
 - Removed Drodi's [Villagers](https://modrinth.com/resourcepack/drodis-villagers), [Illagers](https://modrinth.com/resourcepack/drodis-illagers), and [Blazes](https://modrinth.com/resourcepack/drodis-blazes)
 
+
 ## 1.1.2 - Daily Special
 
 ### Adjustments and Additions
 
 - Adjusted main menu
+
 
 ## 1.1.1 - Shmoovin and Groovin
 

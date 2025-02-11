@@ -1,0 +1,27 @@
+### Removals
+
+- Removed [Sodium Core Shader Support](https://modrinth.com/mod/sodium-core-shader-support)
+
+### Updates
+
+- Updated [AdventureZ](https://modrinth.com/mod/adventurez)
+
+- Updated [Bad Wither No Cookie](https://modrinth.com/mod/bad-wither-no-cookie)
+
+- Updated [Dynamic Crosshair Compat](https://modrinth.com/mod/dynamiccrosshaircompat)
+
+- Updated [FancyMenu](https://modrinth.com/mod/fancymenu)
+
+- Updated [Ksyxis](https://modrinth.com/mod/ksyxis)
+
+- Updated [More Culling](https://modrinth.com/mod/moreculling)
+
+- Updated [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
+
+- Updated [Sodium](https://modrinth.com/mod/sodium)
+
+- Updated [Sounds](https://modrinth.com/mod/sound)
+
+- Updated [Stylish Effects](https://modrinth.com/mod/stylish-effects)
+
+- Updated [Tools of Steel](https://modrinth.com/mod/tools-of-steel)
