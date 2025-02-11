@@ -15,7 +15,7 @@ From Eyes of Ender being late game, to tool progression reworks, with some class
 > [!NOTE]
 > You can get any version of the pack by visiting a link like so:
 > 
-> [`https://mc-sns.github.io/dl/1.0.0`](https://mc-sns.github.io/dl/0.0.1)
+> [`https://mc-sns.github.io/dl/1.1.0`](https://mc-sns.github.io/dl/0.0.1)
 > 
 > You can get the latest version by visting this link:
 > 
