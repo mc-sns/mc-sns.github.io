@@ -20,12 +20,12 @@ fetch("https://mc-sns.github.io/meta.json", {
             if (document.location.pathname == "/dl/" + vList.versions[i].id) {
                 setForDL();
                 console.log(vList.versions[i].id)
-                document.location = vList.versions[i].mpfile
+                dlUrl = "https://mc-sns.github.io/versions/" + vList.versions[i].id + "/sticks_n_stones.mrpack"
+                const a = document.createElement('a') // Create <a>
+                a.href = dlUrl
+                a.download = "sticks_n_stones_"+vList.versions[i].id+".mrpack" // File name Here
+                a.click() // Downloaded file
             }
-        }
-        if (document.location.pathname == "/dl/0.0.0") {
-            setForDL();
-            document.location = "https://mc-sns.github.io/versions/0.0.0/sticks_n_stones_0.0.0.mrpack"
         }
         if (document.location.pathname == "/dl/latest") {
             setForDL();
@@ -37,7 +37,11 @@ fetch("https://mc-sns.github.io/meta.json", {
             })
                 .then((response) => response.text())
                 .then((response) => {
-                    document.location = "https://mc-sns.github.io/versions/" + response + "/sticks_n_stones_" + response + ".mrpack"
+                    dlUrl = "https://mc-sns.github.io/versions/" + response + "/sticks_n_stones.mrpack"
+                    const a = document.createElement('a') // Create <a>
+                    a.href = dlUrl
+                    a.download = "sticks_n_stones_"+response+".mrpack" // File name Here
+                    a.click() // Downloaded file
                 })
         }
     })

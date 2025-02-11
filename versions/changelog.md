@@ -1,5 +1,16 @@
 *\* Update notes do not include libraries*
 
+## 1.1.5 - Yabadaba?
+
+### Adjustments and Additions
+
+- Tweaked the main menu a bit
+
+### Misc
+
+- Changed how the website fetches modpack downloads
+
+
 ## 1.1.4 - A Touch of Vanilla
 
 ### Removals
