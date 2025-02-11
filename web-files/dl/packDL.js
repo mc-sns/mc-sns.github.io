@@ -50,17 +50,18 @@ fetch("https://mc-sns.github.io/meta.json", {
         document.getElementById("pageIco").setAttribute("href", "https://mc-sns.github.io/dlicon.ico");
     } else {
         document.getElementById("pageIco").setAttribute("href", "https://mc-sns.github.io/favicon.ico");
+        window.onload = () => {
+            setTimeout(() => {
+                if (dlPage) {
+                    if (history.back() != undefined) {
+                        history.back()
+                    } else {
+                        window.close()
+                    }
+                } else {
+                    document.location = "https://mc-sns.github.io"
+                }
+            }, 1000)
     }
-window.onload = () => {
-    setTimeout(() => {
-        if (dlPage) {
-            if (history.back() != undefined) {
-                history.back()
-            } else {
-                window.close()
-            }
-        } else {
-            document.location = "https://mc-sns.github.io"
-        }
-    }, 1000)
+
 }
