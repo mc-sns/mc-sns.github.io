@@ -21,7 +21,7 @@ fetch("https://mc-sns.github.io/meta.json", {
                 setForDL();
                 console.log(vList.versions[i].id)
                 const a = document.createElement('a') // Create <a>
-                a.href = `https://mc-sns.github.io/versions/${vList.versions[i].id}/sticks_n_stones.mrpack`
+                a.href = `https://mc-sns.github.io/versions/${vList.versions[i].id}/modpack_file.mrpack`
                 a.download = `sticks_n_stones_${vList.versions[i].id}.mrpack` // File name Here
                 document.body.appendChild(a)
                 a.click() // Downloaded file
@@ -38,7 +38,7 @@ fetch("https://mc-sns.github.io/meta.json", {
                 .then((response) => response.text())
                 .then((response) => {
                     const a = document.createElement('a') // Create <a>
-                    a.href = `https://mc-sns.github.io/versions/${response}/sticks_n_stones.mrpack`
+                    a.href = `https://mc-sns.github.io/versions/${response}/modpack_file.mrpack`
                     a.download = `sticks_n_stones_${response}.mrpack` // File name Here
                     document.body.appendChild(a)
                     a.click() // Downloaded file
