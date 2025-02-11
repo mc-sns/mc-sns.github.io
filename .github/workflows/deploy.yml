@@ -42,7 +42,7 @@ jobs:
           node-version: 20
 
       - name: Setup "latest" stuff
-        run: node ./.github/getLatestVersion.js
+        run: node ./getLatestVersion.js
 
       - name: Setup web stuff
         uses: Amadevus/pwsh-script@v2
