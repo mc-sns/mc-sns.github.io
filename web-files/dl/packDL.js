@@ -1,7 +1,6 @@
 let vList;
 let vListSize;
 let dlPage;
-let latestData;
 function setForDL() {
     dlPage = true;
     document.title = "Getting download..";
@@ -33,32 +32,20 @@ if (document.location.pathname.split("/")[1] == "dl") {
                         window.close()
                     }
                 }
-                if (i == vList.versions.length) {
-                    latestData == JSON.parse(vList.versions[i]);
-                    console.log(latestData.id+" is the latest!")
-                }
             }
+            console.log(latestData.id + " is the latest!")
             if (document.location.pathname == "/dl/latest") {
                 setForDL();
-                fetch("https://mc-sns.github.io/versions/latest/vnum.txt", {
-                    method: "GET",
-                    headers: {
-                        Accept: "application/json",
-                    },
-                })
-                    .then((response) => response.text())
-                    .then((response) => {
-                        const a = document.createElement('a') // Create <a>
-                        a.href = `https://mc-sns.github.io/versions/${response}/modpack_file.mrpack`
-                        a.download = `sticks_n_stones_${response}.mrpack` // File name Here
-                        document.body.appendChild(a)
-                        a.click() // Downloaded file
-                        if (history.back() != undefined) {
-                            history.back()
-                        } else {
-                            window.close()
-                        }
-                    })
+                const a = document.createElement('a') // Create <a>
+                a.href = `https://mc-sns.github.io/versions/${vList.versions[vList.versions.length].id}/modpack_file.mrpack`
+                a.download = `sticks_n_stones_${vList.versions[vList.versions.length].id}.mrpack` // File name Here
+                document.body.appendChild(a)
+                a.click() // Downloaded file
+                if (history.back() != undefined) {
+                    history.back()
+                } else {
+                    window.close()
+                }
             }
         })
 }
