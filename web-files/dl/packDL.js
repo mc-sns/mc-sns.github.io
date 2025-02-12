@@ -21,11 +21,11 @@ if (document.location.pathname.split("/")[1] == "dl") {
                 if (document.location.pathname == "/dl/" + vList.versions[i].id) {
                     setForDL();
                     console.log(vList.versions[i].id)
-                    const a = document.createElement('a') // Create <a>
+                    const a = document.createElement('a')
                     a.href = `https://mc-sns.github.io/versions/${vList.versions[i].id}/modpack_file.mrpack`
-                    a.download = `sticks_n_stones_${vList.versions[i].id}.mrpack` // File name Here
+                    a.download = `sticks_n_stones_${vList.versions[i].id}.mrpack`
                     document.body.appendChild(a)
-                    a.click() // Downloaded file
+                    a.click()
                     if (history.back() != undefined) {
                         history.back()
                     } else {
@@ -36,11 +36,11 @@ if (document.location.pathname.split("/")[1] == "dl") {
             console.log(latestData.id + " is the latest!")
             if (document.location.pathname == "/dl/latest") {
                 setForDL();
-                const a = document.createElement('a') // Create <a>
+                const a = document.createElement('a')
                 a.href = `https://mc-sns.github.io/versions/${vList.versions[vList.versions.length].id}/modpack_file.mrpack`
-                a.download = `sticks_n_stones_${vList.versions[vList.versions.length].id}.mrpack` // File name Here
+                a.download = `sticks_n_stones_${vList.versions[vList.versions.length].id}.mrpack`
                 document.body.appendChild(a)
-                a.click() // Downloaded file
+                a.click()
                 if (history.back() != undefined) {
                     history.back()
                 } else {
