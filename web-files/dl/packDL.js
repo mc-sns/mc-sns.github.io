@@ -33,7 +33,7 @@ if (document.location.pathname.split("/")[1] == "dl") {
                         window.close()
                     }
                 }
-                if (i+1 == vList.versions.length) {
+                if (i == vList.versions.length) {
                     latestData == JSON.parse(vList.versions[i]);
                     console.log(latestData.id+" is the latest!")
                 }
