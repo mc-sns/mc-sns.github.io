@@ -20,7 +20,7 @@ if (document.location.pathname.split("/")[1] == "dl") {
             console.log("Fetched!")
             vList = response;
             if (document.location.pathname == "/dl/latest") {
-                modpackVersion = vList.versions[vList.versions.length].id
+                modpackVersion = vList.versions[vList.versions.length-1].id
             } else {
                 for (var i = 0; i < vList.versions.length; i++) {
                     if (document.location.pathname == "/dl/" + vList.versions[i].id) {
