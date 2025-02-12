@@ -36,13 +36,13 @@ if (document.location.pathname.split("/")[1] == "dl") {
                 a.download = `sticks_n_stones_${modpackVersion}.mrpack`
                 document.body.appendChild(a)
                 a.click()
-                if (history.back() != undefined) {
-                    history.back()
-                } else {
-                    window.close()
-                }
             } else {
                 console.log("Womp womp, something broke")
+            }
+            if (history.back() != undefined) {
+                history.back()
+            } else {
+                window.close()
             }
         })
 }
@@ -54,7 +54,7 @@ if (dlPage) {
     window.onload = () => {
         setTimeout(() => {
             document.location = "https://mc-sns.github.io"
-        }, 800)
+        }, 500)
     }
 
 }
