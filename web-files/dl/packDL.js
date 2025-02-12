@@ -33,7 +33,6 @@ if (document.location.pathname.split("/")[1] == "dl") {
                     }
                 }
             }
-            console.log(latestData.id + " is the latest!")
             if (document.location.pathname == "/dl/latest") {
                 setForDL();
                 const a = document.createElement('a')
