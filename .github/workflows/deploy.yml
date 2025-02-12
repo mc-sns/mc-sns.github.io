@@ -45,8 +45,7 @@ jobs:
           script: |
             $json = Get-Content -Raw -Path './meta.json' | ConvertFrom-Json
             $latestVNum = $json.versions[-1].id
-          
-            del ./versions/latest/*.mrpack -Recurse -Force
+            
             copy ./web-files/** ./ -Recurse
             del ./web-files -Recurse -Force
             del ./.gitignore
