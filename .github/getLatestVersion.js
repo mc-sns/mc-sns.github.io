@@ -14,7 +14,7 @@ fetch("https://raw.githubusercontent.com/mc-sns/mc-sns.github.io/main/meta.json"
       for (var i = 0; i < vList.versions.length; i++) {
         var vListLength = vList.versions.length+-1;
         if (i == vListLength) {
-            fs.cpSync(path.join(__dirname,"versions",vList.versions[i].id), path.join(__dirname,"versions","latest"), {recursive: true, force: true});
+            fs.cpSync(path.join("..",__dirname,"versions",vList.versions[i].id), path.join("..",__dirname,"versions","latest"), {recursive: true, force: true});
         }
     }
   })

@@ -5,8 +5,10 @@ on:
   # Runs on pushes targeting the default branch
   push:
     paths:
-      - versions/**
+      - .github/getLatestVersion.js
+      - .github/workflows/**
       - web-files/**
+      - versions/**
       - meta.json
 
   # Allows you to run this workflow manually from the Actions tab
@@ -42,7 +44,7 @@ jobs:
           node-version: 20
 
       - name: Setup "latest" stuff
-        run: node ./getLatestVersion.js
+        run: node ./.github/getLatestVersion.js
 
       - name: Setup web stuff
         uses: Amadevus/pwsh-script@v2
