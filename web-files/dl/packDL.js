@@ -29,22 +29,24 @@ if (document.location.pathname.split("/")[1] == "dl") {
                 }
             }
         })
-        if (modpackVersion != undefined||null) {
-            const a = document.createElement('a')
-            a.href = `https://mc-sns.github.io/versions/${modpackVersion}/modpack_file.mrpack`
-            a.download = `sticks_n_stones_${modpackVersion}.mrpack`
-            setTimeout(() => {
-                document.body.appendChild(a)
-                a.click()
-                if (history.back() != undefined) {
-                    history.back()
-                } else {
-                    window.close()
-                }
-            }, 800)
-        } else {
-            console.log("Womp womp, something broke")
-        }
+        .then(() => {
+            if (modpackVersion != undefined||null) {
+                const a = document.createElement('a')
+                a.href = `https://mc-sns.github.io/versions/${modpackVersion}/modpack_file.mrpack`
+                a.download = `sticks_n_stones_${modpackVersion}.mrpack`
+                setTimeout(() => {
+                    document.body.appendChild(a)
+                    a.click()
+                    if (history.back() != undefined) {
+                        history.back()
+                    } else {
+                        window.close()
+                    }
+                }, 800)
+            } else {
+                console.log("Womp womp, something broke")
+            }
+        })
 }
 
 if (dlPage) {
