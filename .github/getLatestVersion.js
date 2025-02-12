@@ -1,4 +1,4 @@
-const vList = require("../meta.json")
+let vList = JSON.parse(fs.readFileSync(path.join(__dirname,"..","meta.json")));
 const path = require('path');
 const fs = require('fs');
 
