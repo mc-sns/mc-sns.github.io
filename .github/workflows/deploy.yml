@@ -53,6 +53,9 @@ jobs:
             del ./versions/latest/*.mrpack -Recurse -Force
             copy ./web-files/** ./ -Recurse
             del ./web-files -Recurse -Force
+            del ./.gitignore
+            del ./.gitattributes
+            del ./README.md
             $latestVNum = Get-Content ./versions/latest/vnum.txt
             (Get-Content ./index.html).Replace('LATEST_PACK_VERSION', $latestVNum) | Set-Content ./index.html
 
