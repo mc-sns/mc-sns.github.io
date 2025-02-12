@@ -37,7 +37,14 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v5            
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Setup "latest" stuff
+        run: node ./.github/getLatestVersion.js
 
       - name: Setup web stuff
         uses: Amadevus/pwsh-script@v2
