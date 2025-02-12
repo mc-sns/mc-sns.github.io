@@ -37,26 +37,21 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Pages
-        uses: actions/configure-pages@v5            
-
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      - name: Setup "latest" stuff
-        run: node ./.github/getLatestVersion.js
+        uses: actions/configure-pages@v5
 
       - name: Setup web stuff
         uses: Amadevus/pwsh-script@v2
         with:
           script: |
+            $json = Get-Content -Raw -Path './meta.json' | ConvertFrom-Json
+            $latestVNum = $json.versions[-1].id
+          
             del ./versions/latest/*.mrpack -Recurse -Force
             copy ./web-files/** ./ -Recurse
             del ./web-files -Recurse -Force
             del ./.gitignore
             del ./.gitattributes
             del ./README.md
-            $latestVNum = Get-Content ./versions/latest/vnum.txt
             (Get-Content ./index.html).Replace('LATEST_PACK_VERSION', $latestVNum) | Set-Content ./index.html
 
       - name: Upload artifact
