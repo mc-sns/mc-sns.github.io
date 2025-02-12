@@ -20,7 +20,7 @@ if (document.location.pathname.split("/")[1] == "dl") {
             console.log("Fetched!")
             vList = response;
             if (document.location.pathname == "/dl/latest") {
-                modpackVersion = vList.versions[vList.versions.length-1].id
+                modpackVersion = vList.versions[vList.versions.length - 1].id
             } else {
                 for (var i = 0; i < vList.versions.length; i++) {
                     if (document.location.pathname == "/dl/" + vList.versions[i].id) {
@@ -30,19 +30,17 @@ if (document.location.pathname.split("/")[1] == "dl") {
             }
         })
         .then(() => {
-            if (modpackVersion != undefined||null) {
+            if (modpackVersion != undefined || null) {
                 const a = document.createElement('a')
                 a.href = `https://mc-sns.github.io/versions/${modpackVersion}/modpack_file.mrpack`
                 a.download = `sticks_n_stones_${modpackVersion}.mrpack`
-                setTimeout(() => {
-                    document.body.appendChild(a)
-                    a.click()
-                    if (history.back() != undefined) {
-                        history.back()
-                    } else {
-                        window.close()
-                    }
-                }, 800)
+                document.body.appendChild(a)
+                a.click()
+                if (history.back() != undefined) {
+                    history.back()
+                } else {
+                    window.close()
+                }
             } else {
                 console.log("Womp womp, something broke")
             }
