@@ -41,7 +41,7 @@ if (document.location.pathname.split("/")[1] == "dl") {
         } else {
             window.close()
         }
-    }, 1000)
+    }, 800)
 }
 
 if (dlPage) {
@@ -51,7 +51,7 @@ if (dlPage) {
     window.onload = () => {
         setTimeout(() => {
             document.location = "https://mc-sns.github.io"
-        }, 1000)
+        }, 800)
     }
 
 }
