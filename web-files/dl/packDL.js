@@ -1,9 +1,11 @@
 let vList;
 let vListSize;
 let dlPage;
+
 function setForDL() {
     dlPage = true;
     document.title = "Getting download..";
+    document.getElementById("pageIco").setAttribute("href", "https://mc-sns.github.io/dlicon.ico");
 }
 
 if (document.location.pathname.split("/")[1] == "dl") {
@@ -47,14 +49,11 @@ if (document.location.pathname.split("/")[1] == "dl") {
         })
 }
 
-if (dlPage) {
-    document.getElementById("pageIco").setAttribute("href", "https://mc-sns.github.io/dlicon.ico");
-} else {
+if (!dlPage) {
     document.getElementById("pageIco").setAttribute("href", "https://mc-sns.github.io/favicon.ico");
     window.onload = () => {
         setTimeout(() => {
             document.location = "https://mc-sns.github.io"
         }, 500)
     }
-
 }
