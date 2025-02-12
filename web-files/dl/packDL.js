@@ -7,6 +7,8 @@ function setForDL() {
 }
 
 if (document.location.pathname.split("/")[1] == "dl") {
+    setForDL();
+    let modpackVersion;
     fetch("https://mc-sns.github.io/meta.json", {
         method: "GET",
         headers: {
@@ -17,36 +19,28 @@ if (document.location.pathname.split("/")[1] == "dl") {
         .then((response) => {
             console.log("Fetched!")
             vList = response;
-            for (var i = 0; i < vList.versions.length; i++) {
-                if (document.location.pathname == "/dl/" + vList.versions[i].id) {
-                    setForDL();
-                    console.log(vList.versions[i].id)
-                    const a = document.createElement('a')
-                    a.href = `https://mc-sns.github.io/versions/${vList.versions[i].id}/modpack_file.mrpack`
-                    a.download = `sticks_n_stones_${vList.versions[i].id}.mrpack`
-                    document.body.appendChild(a)
-                    a.click()
-                    if (history.back() != undefined) {
-                        history.back()
-                    } else {
-                        window.close()
+            if (document.location.pathname == "/dl/latest") {
+                modpackVersion = vList.versions[vList.versions.length].id
+            } else {
+                for (var i = 0; i < vList.versions.length; i++) {
+                    if (document.location.pathname == "/dl/" + vList.versions[i].id) {
+                        modpackVersion = vList.versions[i].id
                     }
                 }
             }
-            if (document.location.pathname == "/dl/latest") {
-                setForDL();
-                const a = document.createElement('a')
-                a.href = `https://mc-sns.github.io/versions/${vList.versions[vList.versions.length].id}/modpack_file.mrpack`
-                a.download = `sticks_n_stones_${vList.versions[vList.versions.length].id}.mrpack`
-                document.body.appendChild(a)
-                a.click()
-                if (history.back() != undefined) {
-                    history.back()
-                } else {
-                    window.close()
-                }
-            }
         })
+        
+        const a = document.createElement('a')
+        a.href = `https://mc-sns.github.io/versions/${modpackVersion}/modpack_file.mrpack`
+        a.download = `sticks_n_stones_${modpackVersion}.mrpack`
+        document.body.appendChild(a)
+        a.click()
+        if (history.back() != undefined) {
+            history.back()
+        } else {
+            window.close()
+        }
+
 }
 
 if (dlPage) {
