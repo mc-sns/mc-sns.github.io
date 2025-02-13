@@ -5,7 +5,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link id="pageIco" rel="icon" type="image/x-icon">
     <title>Minecraft: Sticks n' Stones</title>
     <meta name="description" content="The barely-focused, loosely vanilla-plus, kitchen-sink modpack no one asked for.">
     <meta name="keywords"
@@ -25,6 +25,9 @@
             backdrop-filter: blur(5px) brightness(0.8);
         }
     </style>
+    <script>
+        window.onload=()=>{document.getElementById("pageIco").setAttribute("href", "https://mc-sns.github.io/favicon.ico");}
+    </script>
 </head>
 
 <body>
@@ -52,9 +55,6 @@
         <p>© _KCK_, Robert E. Reyes</p>
     </div>
     </div>
-    <script>
-        document.getElementById("pageIco").setAttribute("href", "https://mc-sns.github.io/favicon.ico");
-    </script>
 </body>
 
 </html>
