@@ -15,10 +15,10 @@ From Eyes of Ender being late game, to tool progression reworks, with some class
 > [!NOTE]
 > You can get any version of the pack by visiting a link like so:
 > 
-> [`https://mc-sns.github.io/dl/1.1.0`](https://mc-sns.github.io/dl/1.1.0)
+> [`https://mc-sns.kckarnige.online/dl/1.1.0`](https://mc-sns.github.io/dl/1.1.0)
 > 
 > You can get the latest version by visting this link:
 > 
-> [`https://mc-sns.github.io/dl/latest`](https://mc-sns.github.io/dl/latest)
+> [`https://mc-sns.kckarnige.online/dl/latest`](https://mc-sns.github.io/dl/latest)
 > 
 > You will need a launcher like the Modrinth app or ATLauncher that supports this file type
