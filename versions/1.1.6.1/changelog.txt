@@ -1,0 +1,3 @@
+### Adjustments and Additions
+
+- Changed updater to work with the new modpack url

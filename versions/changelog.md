@@ -10,6 +10,11 @@
 
 - Better Combat config has changed, arms now shown when attacking
 
+> ## x.1 Hotfix 
+>
+> ### Adjustments and Additions
+>
+> - Changed updater to work with the new modpack url
 
 ## 1.1.5 - Yabadaba?
 
