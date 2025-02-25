@@ -1,4 +1,15 @@
-*\* Update notes do not include libraries*
+*\* May contain unlisted updates, usually mandatory libraries and APIs*
+
+## 1.1.6 - Mirror, Mirror In My Hand
+
+### Adjustments and Additions
+
+- Added [Hold My Items](https://modrinth.com/mod/hold-my-items)
+
+- Added [I See My Armored Hand](https://modrinth.com/mod/ismah)
+
+- Better Combat config has changed, arms now shown when attacking
+
 
 ## 1.1.5 - Yabadaba?
 
