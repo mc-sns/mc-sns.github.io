@@ -1,0 +1,9 @@
+### Adjustments and Additions
+
+- Added [Spawn Egg Models](https://modrinth.com/mod/spawn-egg-models)
+
+- Added [Starter Kit](https://modrinth.com/mod/starter-kit)
+
+- Players now spawn with a guide book, it's source code is [available here](https://github.com/mc-sns/mc-sns.github.io/tree/main/ignitedsns)
+
+- Fixed game title saying "Sticks and Stones" instead of "Sticks n' Stones"

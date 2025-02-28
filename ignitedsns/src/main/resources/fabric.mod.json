@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "ignitedsns",
+  "version": "${version}",
+
+  "name": "Ignited",
+  "description": "A guide to the \"Sticks n' Stones\" modpack, powered by Lavender.",
+  "authors": ["KayoticCarnige"],
+  "contact": {
+    "sources": "https://github.com/mc-sns/ignitedsns"
+  },
+
+  "license": "All Rights Reserved",
+
+  "environment": "*",
+  "entrypoints": {
+    "client": ["com.kckarnige.ignitedsns.client.ignitedsnsClient"],
+    "main": ["com.kckarnige.ignitedsns.ignitedsns"]
+  },
+
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "1.21.1"
+  }
+}

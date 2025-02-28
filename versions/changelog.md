@@ -1,5 +1,18 @@
 *\* May contain unlisted updates, usually mandatory libraries and APIs*
 
+## 1.1.7 - The Update of All Time
+
+### Adjustments and Additions
+
+- Added [Spawn Egg Models](https://modrinth.com/mod/spawn-egg-models)
+
+- Added [Starter Kit](https://modrinth.com/mod/starter-kit)
+
+- Players now spawn with a guide book, it's source code is [available here](https://github.com/mc-sns/mc-sns.github.io/tree/main/ignitedsns)
+
+- Fixed game title saying "Sticks and Stones" instead of "Sticks n' Stones"
+
+
 ## 1.1.6 - Mirror, Mirror In My Hand
 
 ### Adjustments and Additions
@@ -15,6 +28,7 @@
 > ### Adjustments and Additions
 >
 > - Changed updater to work with the new modpack url
+
 
 ## 1.1.5 - Yabadaba?
 
