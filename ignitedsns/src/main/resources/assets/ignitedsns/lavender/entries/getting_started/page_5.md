@@ -8,9 +8,9 @@
 
 - You can sleep anywhere in any dimension.
 
-- Cook your food, raw food can give you food poisoning.
-
 - Remember, Minecraft is still a sandbox game. Make sure to build and make yourself a place you can call home.
+
+- Zombies wanna eat your brains!
 
 ;;;;;
 
