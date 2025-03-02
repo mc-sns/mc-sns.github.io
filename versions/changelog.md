@@ -12,6 +12,12 @@
 
 - Fixed game title saying "Sticks and Stones" instead of "Sticks n' Stones"
 
+> ## x.1 Hotfix 
+>
+> ### Adjustments and Additions
+>
+> - Fixed misinformation in the guide book
+
 
 ## 1.1.6 - Mirror, Mirror In My Hand
 
