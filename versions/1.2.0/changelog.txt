@@ -16,7 +16,7 @@
 
 ### Updates
 
-- List is quite long, [check the changelog](https://mc-sns.github.io/changelog)
+- List is quite long, [check the GitHub changelog](https://mc-sns.github.io/changelog)
 
 ### Removals
 
