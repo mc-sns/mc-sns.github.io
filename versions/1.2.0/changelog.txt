@@ -1,0 +1,27 @@
+### Adjustments and Additions
+
+- Added [Capes](https://modrinth.com/mod/capes)
+
+- Added [Undead Leather](https://modrinth.com/mod/undead-leather)
+
+- (Hopefully) Finalized the guidebook
+
+- Changed some recipes that required diamonds to now require diamond ingots
+
+- Shield is now much cheaper
+
+- Saddles are now craftable
+
+- Some horse armors are now craftable
+
+### Updates
+
+- List is quite long, [check the changelog](https://mc-sns.github.io/changelog)
+
+### Removals
+
+- Removed [Hold My Items](https://modrinth.com/mod/hold-my-items) (Caused crashes when rendering certain items)
+
+- Removed [NoCapes](https://modrinth.com/mod/nocapes)
+
+- Removed [Polymorph](https://modrinth.com/mod/polymorph)

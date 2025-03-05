@@ -1,5 +1,84 @@
 *\* May contain unlisted updates, usually mandatory libraries and APIs*
 
+## 1.2.0 - Dying with Style
+
+### Adjustments and Additions
+
+- Added [Capes](https://modrinth.com/mod/capes)
+
+- Added [Undead Leather](https://modrinth.com/mod/undead-leather)
+
+- (Hopefully) Finalized the guidebook
+
+- Changed some recipes that required diamonds to now require diamond ingots
+
+- Shield is now much cheaper
+
+- Saddles are now craftable
+
+- Some horse armors are now craftable
+
+### Updates*
+
+- Updated [C2ME](https://modrinth.com/mod/c2me-fabric)
+
+- Updated [Draggable Lists](https://modrinth.com/mod/draggable-lists)
+
+- Updated [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
+
+- Updated [Entity Culling](https://modrinth.com/mod/entityculling)
+
+- Updated [FancyMenu](https://modrinth.com/mod/fancymenu)
+
+- Updated [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+
+- Updated [Iris Shaders](https://modrinth.com/mod/iris)
+
+- Updated [Lithium](https://modrinth.com/mod/lithium)
+
+- Updated [MidnightLib](https://modrinth.com/mod/midnightlib)
+
+- Updated [Minicore](https://modrinth.com/datapack/minicore)
+
+- Updated [Mod Loading Screen](https://modrinth.com/mod/mod-loading-screen)
+
+- Updated [More Culling](https://modrinth.com/mod/moreculling)
+
+- Updated [Obfuscated Text Improver](https://modrinth.com/mod/obfuscation_improver)
+
+- Updated [Packet Fixer](https://modrinth.com/mod/packet-fixer)
+
+- Updated [Panda's Falling Trees](https://modrinth.com/mod/pandas-falling-trees)
+
+- Updated [Pufferfish's Skills](https://modrinth.com/mod/skills)
+
+- Updated [Roughly Enough Items](https://modrinth.com/mod/rei)
+
+- Updated [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded)
+
+- Updated [Sodium](https://modrinth.com/mod/sodium)
+
+- Updated [Sounds](https://modrinth.com/mod/sound)
+
+- Updated [Tools of Steel](https://modrinth.com/mod/tools-of-steel)
+
+- Updated [Very Many Players](https://modrinth.com/mod/vmp-fabric)
+
+- Updated [Wham!](https://modrinth.com/mod/wham-mace)
+
+- Updated [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
+
+- Updated [YUNG's API](https://modrinth.com/mod/yungs-api)
+
+### Removals
+
+- Removed [Hold My Items](https://modrinth.com/mod/hold-my-items) (Caused crashes when rendering certain items)
+
+- Removed [NoCapes](https://modrinth.com/mod/nocapes)
+
+- Removed [Polymorph](https://modrinth.com/mod/polymorph)
+
+
 ## 1.1.7 - The Update of All Time
 
 ### Adjustments and Additions
