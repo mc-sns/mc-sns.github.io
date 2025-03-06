@@ -1,0 +1,9 @@
+### Adjustments and Additions
+
+- Fixed launch screen being way too big
+
+- "Updated" [More Culling](https://modrinth.com/mod/moreculling)
+
+### Removals
+
+- Removed [Happiness (is a) Warm Gun](https://modrinth.com/mod/happiness-is-a-warm-gun)

@@ -1,5 +1,18 @@
 *\* May contain unlisted updates, usually mandatory libraries and APIs*
 
+## 1.2.1 - Gun Control
+
+### Adjustments and Additions
+
+- Fixed launch screen being way too big
+
+- "Updated" [More Culling](https://modrinth.com/mod/moreculling)
+
+### Removals
+
+- Removed [Happiness (is a) Warm Gun](https://modrinth.com/mod/happiness-is-a-warm-gun)
+
+
 ## 1.2.0 - Dying with Style
 
 ### Adjustments and Additions
