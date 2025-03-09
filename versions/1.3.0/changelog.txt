@@ -28,7 +28,6 @@
 
 - Changed Eye of Ender recipe
 
-
 ### Updates
 
 - Updated [Camera Overhaul](https://modrinth.com/mod/cameraoverhaul)
@@ -40,7 +39,6 @@
 - Updated [Snow Under Trees](https://modrinth.com/mod/snow-under-trees-remastered)
 
 - Updated [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)
-
 
 ### Removals
 
