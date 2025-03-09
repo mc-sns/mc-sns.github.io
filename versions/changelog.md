@@ -1,5 +1,58 @@
 *\* May contain unlisted updates, usually mandatory libraries and APIs*
 
+## 1.3.0 - Underhaul
+
+### Adjustments and Additions
+
+- Added [Beds Spawn Phantoms](https://modrinth.com/mod/beds-spawn-phantoms)
+
+- Added [DeathView](https://modrinth.com/mod/deathview)
+
+- Added [Gravestones](https://modrinth.com/mod/pneumono_gravestones)
+
+- Added [Improved Village Placement](https://modrinth.com/mod/improved-village-placement)
+
+- Added [Just Fancy Torches](https://modrinth.com/resourcepack/just-fancy-torches)
+
+- Added [Katter's Structures - Village](https://modrinth.com/datapack/katters-structures-only-village)
+
+- Added [Phantom Tweaks](https://modrinth.com/mod/phantom-tweaks)
+
+- Added [Village Healthcare](https://modrinth.com/mod/village-healthcare)
+
+- Added [VillagerTradeFix](https://modrinth.com/mod/villagertradefix)
+
+- Added [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
+
+- Added [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
+
+- Adjusted AsteorBar defaults
+
+- Adjusted default keybinds
+
+- Changed Eye of Ender recipe
+
+### Updates
+
+- Updated [Camera Overhaul](https://modrinth.com/mod/cameraoverhaul)
+
+- Updated [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+
+- Updated [Launchers and Arrows](https://modrinth.com/mod/launchers_and_arrows)
+
+- Updated [Snow Under Trees](https://modrinth.com/mod/snow-under-trees-remastered)
+
+- Updated [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)
+
+### Removals
+
+- Removed [Progressive Ender Eyes](https://modrinth.com/resourcepack/updated-mobs)
+
+- Removed [Torches Reimagined](https://modrinth.com/resourcepack/torches-reimagined)
+
+- Removed [Updated Mobs](https://modrinth.com/resourcepack/updated-mobs)
+
+
 ## 1.2.1 - Gun Control
 
 ### Adjustments and Additions
