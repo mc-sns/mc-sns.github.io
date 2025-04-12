@@ -1,5 +1,10 @@
 *\* May contain unlisted updates, usually mandatory libraries and APIs*
 
+## 1.4.0 - "Slightly-Above-Average"haul
+
+==
+
+
 ## 1.3.0 - Underhaul
 
 ### Adjustments and Additions

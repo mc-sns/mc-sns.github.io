@@ -1,0 +1,133 @@
+### Adjustments
+
+- Not Enough Animations defaults
+
+- Minimap now scales properly depending on GUI scale
+
+- Configs will now be overwritten every update
+
+### Additions
+
+- [Aquatic Torches](https://modrinth.com/mod/aquatic-torches-1.21.1)
+
+- [Bedrodium](https://modrinth.com/mod/bedrodium)
+
+- [Bridging Mod](https://modrinth.com/mod/bridging-mod)
+
+- [ExtraSounds Next](https://modrinth.com/mod/extrasoundsforge)
+
+- [KiCK's Torches](https://modrinth.com/resourcepack/modern-torches)
+
+- [Revive](https://modrinth.com/mod/revive)
+
+- [TNT's Harder Beds](https://modrinth.com/mod/tnts-harder-beds)
+
+### Updates
+
+- [AmbientSounds](https://modrinth.com/mod/ambientsounds)
+
+- [AsteorBar](https://modrinth.com/mod/asteorbar)
+
+- [Auto Reconnect Reforged](https://modrinth.com/mod/autoreconnectrf)
+
+- [Better Clouds](https://modrinth.com/mod/better-clouds)
+
+- [Better Selection](https://modrinth.com/mod/better-selection)
+
+- [Better Statistics Screen](https://modrinth.com/mod/better-stats)
+
+- [Biome Spawn Point](https://modrinth.com/mod/biome-spawn-point)
+
+- [Bronze](https://modrinth.com/mod/bronze)
+
+- [Chat Heads](https://modrinth.com/mod/chat-heads)
+
+- [Cherished Worlds](https://modrinth.com/mod/cherished-worlds)
+
+- [C2ME](https://modrinth.com/mod/c2me-fabric)
+
+- [Dungeon Difficulty](https://modrinth.com/mod/dungeon-difficulty)
+
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
+
+- [Entity Culling](https://modrinth.com/mod/entityculling)
+
+- [Forgiving Void](https://modrinth.com/mod/forgiving-void)
+
+- [Friends&Foes](https://modrinth.com/mod/friends-and-foes)
+
+- [Hold Your Enemies Closer](https://modrinth.com/mod/hold_your_enemies_closer)
+
+- [Illager Invasion](https://modrinth.com/mod/illager-invasion/)
+
+- [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+
+- [Item Descriptions](https://modrinth.com/mod/item-descriptions)
+
+- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
+
+- [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips)
+
+- [Let Me Despawn](https://modrinth.com/plugin/lmd)
+
+- [Lithium](https://modrinth.com/mod/lithium)
+
+- [Mob AI Tweaks](https://modrinth.com/mod/mob-ai-tweaks/)
+
+- [More Culling](https://modrinth.com/mod/moreculling)
+
+- [No F3/Debug Screen](https://modrinth.com/datapack/no-debug-screen)
+
+- [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
+
+- [Packet Fixer](https://modrinth.com/mod/packet-fixer)
+
+- [Phantom Tweaks](https://modrinth.com/mod/phantom-tweaks)
+
+- [Presence Footsteps](https://modrinth.com/mod/presence-footsteps)
+
+- [Regenerative Sleep](https://modrinth.com/mod/regenerative-sleep)
+
+- [Scribble](https://modrinth.com/mod/scribble)
+
+- [Shoulder Surfing Reloaded](https://modrinth.com/mod/shoulder-surfing-reloaded)
+
+- [Skin Restorer](https://modrinth.com/mod/skinrestorer)
+
+- [Snow Real Magic!](https://modrinth.com/mod/snow-real-magic)
+
+- [Tools of Steel](https://modrinth.com/mod/tools-of-steel)
+
+- [Traveler's Titles](https://modrinth.com/mod/travelers-titles)
+
+- [Universal Shortcuts](https://modrinth.com/mod/universal-shortcuts)
+
+- [Variants&Ventures](https://modrinth.com/mod/variants-and-ventures)
+
+- [Wakes](https://modrinth.com/mod/wakes)
+
+- [What Are They Up To](https://modrinth.com/mod/what-are-they-up-to)
+
+- [Wither Skull Overhaul](https://modrinth.com/mod/wither-skull-overhaul)
+
+- [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
+
+- [YUNG's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses)
+
+### Removals
+
+- [Bosses of Mass Destruction](https://modrinth.com/mod/bosses-of-mass-destruction)
+
+- [Combat Nouveau](https://modrinth.com/mod/combat-nouveau)
+
+- [Just Fancy Torches](https://modrinth.com/resourcepack/just-fancy-torches)
+
+- [Minicore](https://modrinth.com/mod/minicore)
+
+- [More Bed Variants](https://modrinth.com/mod/more-bed-variants)
+
+- [OptiGUI](https://modrinth.com/mod/optigui)
+
+- [Raised](https://modrinth.com/mod/raised)
+
+- [Sounds](https://modrinth.com/mod/sound)
