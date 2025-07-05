@@ -5,13 +5,13 @@ let dlPage;
 function setForDL() {
     dlPage = true;
     document.title = "Getting download..";
-    document.getElementById("pageIco").setAttribute("href", "https://mc-sns.kckarnige.online/dlicon.ico");
+    document.getElementById("pageIco").setAttribute("href", "/dlicon.ico");
 }
 
 if (document.location.pathname.split("/")[1] == "dl") {
     setForDL();
     let modpackVersion;
-    fetch("https://mc-sns.kckarnige.online/meta.json", {
+    fetch("/meta.json", {
         method: "GET",
         headers: {
             Accept: "application/json",
@@ -34,7 +34,7 @@ if (document.location.pathname.split("/")[1] == "dl") {
         .then(() => {
             if (modpackVersion != undefined || null) {
                 const a = document.createElement('a')
-                a.href = `https://mc-sns.kckarnige.online/versions/${modpackVersion}/modpack_file.mrpack`
+                a.href = `/versions/${modpackVersion}/modpack_file.mrpack`
                 a.download = `sticks_n_stones_${modpackVersion}.mrpack`
                 document.body.appendChild(a)
                 a.click()
@@ -50,7 +50,7 @@ if (document.location.pathname.split("/")[1] == "dl") {
 }
 
 if (!dlPage) {
-    document.getElementById("pageIco").setAttribute("href", "https://mc-sns.kckarnige.online/favicon.ico");
+    document.getElementById("pageIco").setAttribute("href", "/favicon.ico");
     window.onload = () => {
         setTimeout(() => {
             document.location = "https://mc-sns.kckarnige.online"
