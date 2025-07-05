@@ -4,7 +4,7 @@
 
 - Starting from scratch with this update!
 
-- Mods are listed [here](https://github.com/mc-sns/mc-sns.github.io/blob/main/versions/2.0.0/content_list.md)!
+- All new mods are listed [here](https://github.com/mc-sns/mc-sns.github.io/blob/main/versions/2.0.0/content_list.md)!
 
 
 ## 1.3.0 - Underhaul
