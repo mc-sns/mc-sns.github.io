@@ -1,12 +1,12 @@
--==-      Shader Packs      -==-
+## Shader Packs
 - [Visual Vibrance](https://modrinth.com/project/l6Uqs2fS) by jbritain
 
--==-     Resource Packs     -==-
+## Resource Packs
 - [Better Leaves](https://modrinth.com/project/uvpymuxq) by Motschen
 - [KiCK's Torches](https://modrinth.com/project/PgUnspfn) by KiCKTheBucket
 - [Wham!: The Third](https://modrinth.com/project/98jlYLQT) by KiCKTheBucket
 
--==-          Mods          -==-
+## Mods
 - [1.21.6 Recipes Backport](https://modrinth.com/mod/tEZRMLMm) [1.0.2] by tricked33
 - [2D Projectiles](https://modrinth.com/mod/W2K5WNdH) [1.0.1] by Gaura
 - [ActuallyHarvest](https://modrinth.com/mod/sUbuUC7R) [1.1.3.1] by wendall911
