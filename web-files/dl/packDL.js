@@ -12,6 +12,7 @@ if (document.location.pathname.split("/")[1] == "dl") {
     setForDL();
     let modpackVersion;
     fetch("/meta.json", {
+        cache: "no-cache",
         method: "GET",
         headers: {
             Accept: "application/json",
