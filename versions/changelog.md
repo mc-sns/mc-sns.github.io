@@ -1,10 +1,21 @@
 *\* May contain unlisted updates, usually mandatory libraries and APIs*
 
+## 2.0.1 - Lost in 翻译
+
+- Updated mods!
+
+- Fixed a translation error with the "Woolen" Backpack from yyz's backpack mod (Woolen -> Wooden)
+
+- Reverted Wooden Backpack recipe to it's default recipe
+
+- All mods and such in this version are listed [here](https://github.com/mc-sns/mc-sns.github.io/blob/main/versions/2.0.1/content_list.md)!
+
+
 ## 2.0.0 - Overly-hauled
 
 - Starting from scratch with this update!
 
-- All new mods are listed [here](https://github.com/mc-sns/mc-sns.github.io/blob/main/versions/2.0.0/content_list.md)!
+- All mods and such in this version are listed [here](https://github.com/mc-sns/mc-sns.github.io/blob/main/versions/2.0.0/content_list.md)!
 
 
 ## 1.3.0 - Underhaul
