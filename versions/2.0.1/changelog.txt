@@ -1,6 +1,6 @@
 - Updated mods!
 
-- Fixed a translation error with the "Woolen" Backpack from yyz's backpack mod (Woolen -> Wooden)
+- Fixed a translation error with the "Woolen" Backpack from yyz's backpack mod
 
 - Reverted Wooden Backpack recipe to it's default recipe
 
