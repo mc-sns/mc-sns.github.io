@@ -177,8 +177,7 @@
           "generic": "https://mc-sns.kckarnige.online/changelog"
         }
       }
-    }
-    ,
+    },
     {
       "id": "2.0.1",
       "releasedAt": 1751860425152,
@@ -186,6 +185,17 @@
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/mc-sns/version/2.0.1",
+          "generic": "https://mc-sns.kckarnige.online/changelog"
+        }
+      }
+    },
+    {
+      "id": "2.1.0",
+      "releasedAt": 1751860425152,
+      "updateType": "minor",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/mc-sns/version/2.1.0",
           "generic": "https://mc-sns.kckarnige.online/changelog"
         }
       }

@@ -1,5 +1,20 @@
 *\* May contain unlisted updates, usually mandatory libraries and APIs*
 
+## 2.1.0 - It's About Preference
+
+- Updated mods!
+
+- Removed [Keep Inventory Orbs](https://modrinth.com/datapack/keep-inventory-orbs) due to a compatibility issue with [yyz's backpack](https://modrinth.com/mod/yyzs-backpack).
+
+- Removed [Fluffpumpkin's Chainmailed](https://modrinth.com/datapack/fluffpumpkin-chainmailed) due to the datapack/mod not working as intended.
+
+- Changed default game rules, keep inventory is now on by default.
+
+- New cursor thanks to the [Minecraft Cursor](https://modrinth.com/mod/minecraft-cursor) mod!
+
+- All mods and such in this version are listed [here](https://github.com/mc-sns/mc-sns.github.io/blob/main/versions/2.1.0/content_list.md)!
+
+
 ## 2.0.1 - Lost in 翻译
 
 - Updated mods!
