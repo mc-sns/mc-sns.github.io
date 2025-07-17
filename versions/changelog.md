@@ -1,5 +1,14 @@
 *\* May contain unlisted updates, usually mandatory libraries and APIs*
 
+## 2.1.1 - From a Distance
+
+- Updated [Distant Horizons](https://modrinth.com/mod/distanthorizons)
+
+- Removed [WATER BUCKET. RELEASE!](https://modrinth.com/datapack/water-bucket.-release)
+
+- All mods and such in this version are listed [here](https://github.com/mc-sns/mc-sns.github.io/blob/main/versions/2.1.1/content_list.md)!
+
+
 ## 2.1.0 - It's About Preference
 
 - Updated mods!
