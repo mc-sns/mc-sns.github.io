@@ -1,5 +1,12 @@
 *\* May contain unlisted updates, usually mandatory libraries and APIs*
 
+## 2.2.1 - Just the bits please!
+
+- Updated [KiCK's Torches](https://modrinth.com/resourcepack/PgUnspfn)
+
+- All mods and such in this version are listed [here](https://github.com/mc-sns/mc-sns.github.io/blob/main/versions/2.2.1/content_list.md)!
+
+
 ## 2.2.0 - The Adventure Overhaul
 
 - Updated mods!
