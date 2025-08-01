@@ -1,0 +1,19 @@
+- Updated mods!
+
+- Added [Anvil Never Too Expensive](https://modrinth.com/mod/sUbuUC7R)
+
+- Added [Dungeons Overhaul](https://modrinth.com/mod/p59jnqZS)
+
+- Added [Ender Dragon Prime](https://modrinth.com/mod/IViZAZb2)
+
+- Added [Netherited](https://modrinth.com/mod/LboV1AEJ)
+
+- Added [No Netherite Armor](https://modrinth.com/mod/m2np2QTT)
+
+- Added [Potion Stacking](https://modrinth.com/mod/1hvxU3F5)
+
+- Added [Repairables Anvil](https://modrinth.com/mod/rxz6Z187)
+
+- Removed controller support ([MidnightControls](https://modrinth.com/mod/midnightcontrols)) due to impossible bindings.
+
+- All mods and such in this version are listed [here](https://github.com/mc-sns/mc-sns.github.io/blob/main/versions/2.2.0/content_list.md)!
