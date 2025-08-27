@@ -1,5 +1,22 @@
 *\* May contain unlisted updates, usually mandatory libraries and APIs*
 
+## 2.2.2 - Worms n' Stuff
+
+- Removed [Lingering Arrows](https://modrinth.com/datapack/lingering-arrows), as it doesn't function at all
+
+- Added [Book Scroll](https://modrinth.com/mod/book-scroll)
+
+- Added [Bookmark](https://modrinth.com/mod/bookmark)
+
+- Added [Bookshelf Inspector](https://modrinth.com/mod/bookshelf-inspector)
+
+- Added [Herobrine](https://modrinth.com/datapack/from-the-fog)
+
+- Updated world creation preset images
+
+- All mods and such in this version are listed [here](https://github.com/mc-sns/mc-sns.github.io/blob/main/versions/2.2.2/content_list.md)!
+
+
 ## 2.2.1 - Just the bits please!
 
 - Updated [KiCK's Torches](https://modrinth.com/resourcepack/PgUnspfn)
