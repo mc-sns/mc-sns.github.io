@@ -1,4 +1,4 @@
-*\* May contain unlisted updates, usually mandatory libraries and APIs*
+*May or may not list specific updates, mandatory libraries, and/or APIs*
 
 ## 2.3.0 - Alone At The Edge Of A Universe
 
@@ -233,7 +233,7 @@ Make sure to backup your saves!
 
 - Some horse armors are now craftable
 
-### Updates*
+### Updates
 
 - Updated [C2ME](https://modrinth.com/mod/c2me-fabric)
 
@@ -347,7 +347,7 @@ Make sure to backup your saves!
 
 - Removed [Sodium Core Shader Support](https://modrinth.com/mod/sodium-core-shader-support)
 
-### Updates*
+### Updates
 
 - Updated [AdventureZ](https://modrinth.com/mod/adventurez)
 
@@ -418,7 +418,7 @@ Make sure to backup your saves!
 
 - Added [Better Climbing](https://modrinth.com/mod/better-climbing)
 
-### Updates*
+### Updates
 
 - Updated [Tools of Steel](https://modrinth.com/mod/tools-of-steel)
 
