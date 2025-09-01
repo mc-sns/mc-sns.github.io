@@ -1,0 +1,62 @@
+## Important Changes
+
+It's recommended you reinstall the modpack to make sure things work properly!
+
+
+Make sure to backup your saves!
+
+- Added default settings for Distant Horizons to be less performance heavy and to prevent lag on weaker systems.
+
+- Disabling sleep is now a gamerule, enabled by default.
+
+- Added [Enderscape](https://modrinth.com/mod/enderscape), which overhauls the End similar to the Nether update.
+
+- Hotbar is similar to legacy console by default. (I would've made the change more subtle, but due to how Overflow Bars functions, I needed to do this instead.)
+
+- Third person mode not changing back when respawning is now fixed.
+
+- Mending is now usable in survival.
+
+- Removed [Herobrine](https://modrinth.com/datapack/from-the-fog). (He was lagging the game, a lot!)
+
+----
+
+- Updated mods!
+
+- Added [(Dis)Allow Sleeping](https://modrinth.com/mod/disallow-sleeping) (Replaces [No More Sleeping](https://modrinth.com/mod/nosleeping)) 
+
+- Added [Bedrock Hotbar](https://modrinth.com/mod/bedrock-hotbar)
+
+- Added [Culler](https://modrinth.com/mod/culler)
+
+- Added [Enderscape](https://modrinth.com/mod/enderscape)
+
+- Added [Horseman](https://modrinth.com/mod/horseman)
+
+- Added [Keybind Bug Fixes](https://modrinth.com/mod/keybindbugfixes) (Replaces [Amecs Reborn](https://modrinth.com/mod/amecs-reborn) and [Debug Keys Anywhere](https://modrinth.com/mod/f3-t-everywhere))
+
+- Added [Mas Effects](https://modrinth.com/mod/mas-effects)
+
+- Added [Name Pain](https://modrinth.com/mod/namepain)
+
+- Added [No Sprint-Swimming](https://modrinth.com/datapack/no-sprint-swimming)
+
+- Added [Smooth Skies](https://modrinth.com/mod/smooth-skies)
+
+- Added [Third Person Death](https://modrinth.com/mod/thirdpersondeath) (Replaces [DeathView](https://modrinth.com/mod/deathview))
+
+- Added [Unloaded Activity](https://modrinth.com/mod/unloaded-activity)
+
+- Added [View Distance Fix](https://modrinth.com/mod/view-distance-fix)
+
+- Removed [From The Fog](https://modrinth.com/datapack/from-the-fog) (Due to lag, specifically in single player worlds)
+
+- Removed default shader settings
+
+- Default framerate is now 90fps (Was 120fps)
+
+- Default brightness is now 40% (Was 30%)
+
+- Vignette is now disabled by default
+
+- All mods and such in this version are listed [here](https://github.com/mc-sns/mc-sns.github.io/blob/main/versions/2.3.0/content_list.md)
