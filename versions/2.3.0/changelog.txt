@@ -19,7 +19,7 @@ Make sure to backup your saves!
 
 - Removed [Herobrine](https://modrinth.com/datapack/from-the-fog). (He was lagging the game, a lot!)
 
-----
+#
 
 - Updated mods!
 
