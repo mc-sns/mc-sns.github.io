@@ -1,0 +1,12 @@
+## Important Changes
+
+It's recommended you reinstall the modpack to make sure things work properly!
+
+
+Make sure to backup your saves!
+
+- Disabled Culler's sign culling, which broke sign painting rendering
+
+- Disabled Bedrockify button in settings
+
+- All mods and such in this version are listed [here](https://github.com/mc-sns/mc-sns.github.io/blob/main/versions/2.3.1/content_list.md)

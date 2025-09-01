@@ -1,5 +1,19 @@
 *May or may not list specific updates, mandatory libraries, and/or APIs*
 
+## 2.3.1 - Pretty Little Trees
+
+It's recommended you reinstall the modpack to make sure things work properly!
+
+
+Make sure to backup your saves!
+
+- Disabled Culler's sign culling, which broke sign painting rendering
+
+- Disabled Bedrockify button in settings
+
+- All mods and such in this version are listed [here](https://github.com/mc-sns/mc-sns.github.io/blob/main/versions/2.3.1/content_list.md)
+
+
 ## 2.3.0 - Alone At The Edge Of A Universe
 
 It's recommended you reinstall the modpack to make sure things work properly!
