@@ -1,5 +1,17 @@
 *May or may not list specific updates, mandatory libraries, and/or APIs*
 
+## 2.4.2 - Quick Patch
+
+It's recommended you reinstall the modpack to make sure things work properly!
+
+
+Make sure to backup your saves!
+
+- Replaced [Xander's Sodium Options](https://modrinth.com/mod/xanders-sodium-options) with [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
+
+- All mods and such in this version are listed [here](https://github.com/mc-sns/mc-sns.github.io/blob/main/versions/2.4.2/content_list.md)
+
+
 ## 2.4.1 - There's salt in my eyes!
 
 It's recommended you reinstall the modpack to make sure things work properly!
