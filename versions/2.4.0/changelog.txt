@@ -1,0 +1,30 @@
+## Important Changes
+
+It's recommended you reinstall the modpack to make sure things work properly!
+
+
+Make sure to backup your saves!
+
+- Updated mods!
+
+- Added [En Garde!](https://modrinth.com/mod/en-garde)
+
+- Added [Friends & Foes](https://modrinth.com/mod/friends-and-foes)
+
+- Added [Fix Keyboard on Linux](https://modrinth.com/mod/fix-keyboard-on-linux)
+
+- Added [Happy Ghast Legacy](https://modrinth.com/mod/happy-ghast-legacy)
+
+- Added [Leaves Be Gone](https://modrinth.com/mod/leaves-be-gone)
+
+- Added [Soul Fire'd](https://modrinth.com/mod/soul-fire-d)
+
+- Added [Tiny Skeletons](https://modrinth.com/mod/tiny-skeletons)
+
+- Added [WayFix](https://modrinth.com/mod/wayfix)
+
+- Removed [Skeleton AI Fix](https://modrinth.com/mod/skeleton-ai-fix)
+
+- Removed [WitherTurnsSkeletons](https://modrinth.com/mod/witherturnsskeletons)
+
+- All mods and such in this version are listed [here](https://github.com/mc-sns/mc-sns.github.io/blob/main/versions/2.4.0/content_list.md)
