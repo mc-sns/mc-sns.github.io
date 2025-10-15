@@ -1,5 +1,19 @@
 *May or may not list specific updates, mandatory libraries, and/or APIs*
 
+## 2.4.3 - WayFix'd
+
+It's recommended you reinstall the modpack to make sure things work properly!
+
+
+Make sure to backup your saves!
+
+- Updated mods!
+
+- Removed [WayFix](https://modrinth.com/mod/wayfix) due to crashes on Linux (Tested on Fedora 42)
+
+- All mods and such in this version are listed [here](https://github.com/mc-sns/mc-sns.github.io/blob/main/versions/2.4.3/content_list.md)
+
+
 ## 2.4.2 - Quick Patch
 
 It's recommended you reinstall the modpack to make sure things work properly!
