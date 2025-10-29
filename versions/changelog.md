@@ -1,5 +1,21 @@
 *May or may not list specific updates, mandatory libraries, and/or APIs*
 
+## 2.4.4 - 4D Skins? 5D Skins?
+
+It's recommended you reinstall the modpack to make sure things work properly!
+
+
+Make sure to backup your saves!
+
+- Updated mods!
+
+- Added [Figura](https://modrinth.com/mod/figura)
+
+- Added [Resourcify](https://modrinth.com/mod/resourcify)
+
+- All mods and such in this version are listed [here](https://github.com/mc-sns/mc-sns.github.io/blob/main/versions/2.4.4/content_list.md)
+
+
 ## 2.4.3 - WayFix'd
 
 It's recommended you reinstall the modpack to make sure things work properly!
